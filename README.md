@@ -1,2 +1,2 @@
 # moble_opencv
-moble
+moble opencv 실습 - hhahha
